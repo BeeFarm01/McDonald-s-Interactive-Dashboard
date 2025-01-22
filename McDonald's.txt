@@ -1,6 +1,6 @@
-This is McDonald's interactive excel design with dummy data. 
+This is McDonald's interactive excel dashboard design with dummy data. 
 
-We specialize in transforming raw data into actionable insights 
+Specialize in transforming raw data into actionable insights 
 through powerful visualizations. Using advanced Excel features like 
 Pivot Tables, Conditional Formatting, and interactive dashboards, 
 we create tools that empower decision-making.
